@@ -10,7 +10,7 @@ I currently live in the Greater Seattle Area and originate from the Washington D
 <br> 
 
 ### How I got here 🚀
-- My first role at Microsoft was supporting Exchange Server and eventually a newer, rising service called Microsoft Azure 😳
+- My first role at Microsoft was supporting Exchange Server & Online, and eventually a newer, rising service called Microsoft Azure 😳
 - A couple of years in, I tried something new, supporting the Chief of Staff for the Microsoft Services org and driving their internal employee experience & community - managing the Circle of Excellence Award program was one of my favorite projects.
 - In 2020, at the height of the world moving online, I moved into MSIT (later rebranded to Microsoft Digital) where I supported their customer engagement program, connecting our internal SMEs to customers who wanted to know how "Microsoft did it" -- "it" being our Digital Transformation from a largely in-person, connected company to working online, at home and at times, async.
 - This naturally led me to the 👑 of async work - GitHub! And the rest is still in writing ✍️ I'd love to [connect](https://www.linkedin.com/in/chrissnl/) if you want to follow along!
