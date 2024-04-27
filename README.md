@@ -20,7 +20,9 @@ I currently live in the Greater Seattle Area and originate from the Washington D
 ### How I do my best work 👩🏻‍💻 
 - I am a big proponent of block scheduling and you'll find my most of my calendar filled with focus time and tasks.
 - I follow an 80:20 method for async:live work. Working asynchronously allow both you and I to maximize our day, however I enjoy talking things out and bouncing ideas around - and that's where the 20% comes in. Unless indicated otherwise, I welcome you to schedule 10-15 minutes for live collaboration.
-- I am an INFJ - a character that says I'm an Idealist. I am constantly wanting to make things better, improve where things can be improved (even by 10%), and driven by helping others grow and become better versions of themselves.
+- I am an INFJ - a character that says I'm an Idealist. I am constantly wanting to make things better, improve where things can be improved (even by 10%), and driven by helping others grow and become better versions of themselves. You'll find me constantly creating documentation, consolidating information and iterating on processes.
+- I thrive in an environment that has a "North Star" mission and allows autonomy to be creative, collaborative and ship to learn.
+- I am generally a reserved personality - but I wouldn't say I'm shy! I am a listener and like to reflect, ask questions and get the big picture before jumping into something.
 
 
 <!--
